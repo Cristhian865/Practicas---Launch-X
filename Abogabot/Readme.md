@@ -22,3 +22,5 @@ La aplicacion tendra 2 roles el de administrador y el de cliente:
 2 El cliente puede pagar en la aplicacion a travez de diverso metodos de pago digitales.
 
 3 El cliente puede comunicarse con un administrador para que lo asesore en sus dudas.
+
+## Diagrama de Flujo de la Aplicación (https://miro.com/es/)
