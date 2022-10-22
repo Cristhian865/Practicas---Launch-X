@@ -25,5 +25,5 @@ La aplicacion tendra 2 roles el de administrador y el de cliente:
 
 ## Buyer Persona 
 Se define como el cliente ideal del proyecto web, aquel que compraría el proyecto. El cliente ideal definido para el caso es el `Director Financiero` de la firma de abogados.
-![buyer_persona](/Practicas---Launch-X/images/imagen_2022-10-21_202202362.png)
+![buyer_persona](/images/imagen_2022-10-21_202202362.png)
 
