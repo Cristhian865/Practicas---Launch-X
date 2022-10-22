@@ -23,4 +23,7 @@ La aplicacion tendra 2 roles el de administrador y el de cliente:
 
 3 El cliente puede comunicarse con un administrador para que lo asesore en sus dudas.
 
-## Diagrama de Flujo de la Aplicación (https://miro.com/es/)
+## Buyer Persona (https://www.hubspot.es/make-my-persona)
+Se define como el cliente ideal del proyecto web, aquel que compraría el proyecto. El cliente ideal definido para el caso es el `Director Financiero` de la firma de abogados.
+![buyer_persona](Practicas---Launch-X/images/imagen_2022-10-21_202202362.png)
+
