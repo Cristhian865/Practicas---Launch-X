@@ -31,3 +31,4 @@ Se define como el cliente ideal del proyecto web, aquel que compraría el proyec
 Usuarios potenciales para el uso de la aplicación.
 
 ![público_objetivo](/images/imagen_2022-11-09_183321486.png)
+## Wireframe:
