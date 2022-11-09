@@ -27,4 +27,7 @@ La aplicacion tendra 2 roles el de administrador y el de cliente:
 Se define como el cliente ideal del proyecto web, aquel que compraría el proyecto. El cliente ideal definido para el caso es el Director Financiero de la firma de abogados.
 
 ![buyer_persona](/images/imagen_2022-10-21_202202362.png)
+## Público objetivo
+Usuarios potenciales para el uso de la aplicación.
 
+![público_objetivo](/images/imagen_2022-11-09_183321486.png)
